@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aarushi Yadav
 
 🎓 M.Sc. Operations Research (Final Year Student)  
-📊 Aspiring Data Analyst / Data Scientist  
+📊 Aspiring Data Analyst / Data Scientist /  Operational Analyst
 💻 Passionate about data, optimization, and problem-solving
 
 ---
@@ -15,8 +15,7 @@ I am a postgraduate student with a strong foundation in Operations Research, sta
 ## 🛠 Skills
 
 **Programming Languages**  
-- Python  
-- R  
+- Python   
 - SQL  
 
 **Data Analysis & Visualization**  
@@ -34,15 +33,6 @@ I am a postgraduate student with a strong foundation in Operations Research, sta
 - Optimization Models  
 - Transportation & Assignment Problems  
 - LINGO  
-
----
-
-## 📊 Projects
-
-- Diet Optimization Problem using Linear Programming  
-  (Solved using Python, R, and LINGO with multiple nutrient constraints)
-
-- Academic projects related to Operations Research and Data Analysis
 
 ---
 
@@ -65,8 +55,8 @@ I am a postgraduate student with a strong foundation in Operations Research, sta
 
 ## 🤝 Connect With Me
 
-- 📧 Email: your_email_here  
-- 💼 LinkedIn: your_linkedin_here  
+- 📧 Email: yadavaarushi215@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/aarushi-yadav-2ab68b326/  
 
 ---
 

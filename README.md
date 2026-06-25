@@ -21,7 +21,8 @@ I am a postgraduate student with a strong foundation in Operations Research, sta
 **Data Analysis & Visualization**  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
-- MS Excel  
+- MS Excel
+- Power BI
 
 **Data Science**  
 - Data Cleaning & Preprocessing  

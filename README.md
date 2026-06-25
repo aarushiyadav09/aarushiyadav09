@@ -49,8 +49,7 @@ I am a postgraduate student with a strong foundation in Operations Research, sta
 
 - Advanced Python for Data Analysis  
 - Machine Learning Fundamentals  
-- SQL for Data Analytics  
-- Power BI / Tableau  
+
 
 ---
 
